@@ -87,55 +87,55 @@ export const aboutData = {
 export const skills = [
     {
         name: "HTML",
-        logo: "zcedd/public/html5.svg",
+        logo: "html5.svg",
     },
     {
         name: "CSS",
-        logo: "zcedd/public/css.svg",
+        logo: "css.svg",
     },
     {
         name: "Javascript",
-        logo: "zcedd/public/js.svg",
+        logo: "js.svg",
     },
     {
         name: "Laravel",
-        logo: "zcedd/public/laravel.svg",
+        logo: "laravel.svg",
     },
     {
         name: "Bootstrap 5",
-        logo: "zcedd/public/bootsrap-5.svg",
+        logo: "bootstrap-5.svg",
     },
     {
         name: "Tailwind",
-        logo: "zcedd/public/tailwind.svg",
+        logo: "tailwind.svg",
     },
     {
         name: "React",
-        logo: "zcedd/public/react.svg",
+        logo: "react.svg",
     },
     {
         name: "Vite",
-        logo: "zcedd/public/vite.svg",
+        logo: "vite.svg",
     },
     {
         name: "Next",
-        logo: "zcedd/public/nextjs.svg",
+        logo: "nextjs.svg",
     },
     {
         name: "Git",
-        logo: "zcedd/public/git.svg",
+        logo: "git.svg",
     },
     {
         name: "VSCode",
-        logo: "zcedd/public/vscode.svg",
+        logo: "vscode.svg",
     },
     {
         name: "Adobe XD",
-        logo: "zcedd/public/adobexd.svg",
+        logo: "adobexd.svg",
     },
     {
         name: "Photoshop",
-        logo: "zcedd/public/photoshop.svg",
+        logo: "photoshop.svg",
     },
 ];
 
