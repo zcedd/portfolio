@@ -23,7 +23,7 @@ export default function Home() {
                     name="viewport"
                     content="width=device-width, initial-scale=1"
                 />
-                <link rel="icon" href="/cb-icon.svg" />
+                <link rel="icon" href="cb-icon.svg" />
             </Head>
             <main className="relative max-w-6xl px-5 md:px-10 lg:px-12 xl:px-0 mx-auto z-20">
                 <Hero />
