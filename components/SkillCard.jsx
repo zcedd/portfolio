@@ -17,7 +17,7 @@ const SkillCard = ({ name, imgUrl, widthHeight }) => {
                 <div className="flex flex-col items-center justify-center gap-3">
                     <div className="mx-auto">
                         <Image
-                            src={`/${imgUrl}`}
+                            src={`${imgUrl}`}
                             alt="html5.svg"
                             width={widthHeight}
                             height={widthHeight}
