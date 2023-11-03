@@ -67,7 +67,7 @@ const about = () => {
                                     </small>
                                 </motion.div>
 
-                                <motion.div
+                                {/* <motion.div
                                     variants={fadeIn("up", "tween", 0.6, 0.8)}
                                 >
                                     <h4 className="text-lg font-semibold">
@@ -76,7 +76,7 @@ const about = () => {
                                     <small className="text-secondaryWhite">
                                         {aboutData.certification.school}
                                     </small>
-                                </motion.div>
+                                </motion.div> */}
                             </div>
                         </div>
                     </motion.div>

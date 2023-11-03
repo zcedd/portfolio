@@ -75,8 +75,8 @@ export const aboutData = {
         'My interest in web development started way back 2017 when I was appointed as the leader and programmer in our Thesis Project and when I visited a certain website for a graphics artists with awesome user-interaction like unblur part of background image on mouse pointer position. I got amazed and I said to myself "I like to build amazing an website like this someday".',
     ],
     education: {
-        course: "Bachelor of Science in Information Technology",
-        school: "Panpaciic University North Philippines",
+        course: "Bachelor of Science in Computer Engineering",
+        school: "Mariano Marcos State University",
     },
     certification: {
         title: "Visual Graphics Design NCIII",
@@ -87,47 +87,47 @@ export const aboutData = {
 export const skills = [
     {
         name: "HTML",
-        logo: "html5.svg",
+        logo: "public/html5.svg",
     },
     {
         name: "CSS",
-        logo: "css.svg",
+        logo: "public/css.svg",
     },
     {
         name: "Javascript",
-        logo: "js.svg",
+        logo: "public/js.svg",
     },
     {
         name: "Tailwind",
-        logo: "tailwind.svg",
+        logo: "public/tailwind.svg",
     },
     {
         name: "React",
-        logo: "react.svg",
+        logo: "public/react.svg",
     },
     {
         name: "Vite",
-        logo: "vite.svg",
+        logo: "public/vite.svg",
     },
     {
         name: "Next",
-        logo: "nextjs.svg",
+        logo: "public/nextjs.svg",
     },
     {
         name: "Git",
-        logo: "git.svg",
+        logo: "public/git.svg",
     },
     {
         name: "VSCode",
-        logo: "vscode.svg",
+        logo: "public/vscode.svg",
     },
     {
         name: "Adobe XD",
-        logo: "adobexd.svg",
+        logo: "public/adobexd.svg",
     },
     {
         name: "Photoshop",
-        logo: "photoshop.svg",
+        logo: "public/photoshop.svg",
     },
 ];
 
