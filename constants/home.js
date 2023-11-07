@@ -23,11 +23,11 @@ export const navLinks = [
         cName: "nav_item",
         url: "/contact",
     },
-    {
-        title: "Resume",
-        url: "https://drive.google.com/file/d/1oN1bcOAtKM40I0-ogv43iddCqEDz51n1/view?usp=share_link",
-        cName: "cta_resume",
-    },
+    // {
+    //     title: "Resume",
+    //     url: "https://drive.google.com/file/d/1oN1bcOAtKM40I0-ogv43iddCqEDz51n1/view?usp=share_link",
+    //     cName: "cta_resume",
+    // },
 ];
 
 export const emailLink =
