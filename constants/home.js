@@ -23,11 +23,11 @@ export const navLinks = [
         cName: "nav_item",
         url: "/contact",
     },
-    // {
-    //     title: "Resume",
-    //     url: "https://drive.google.com/file/d/1oN1bcOAtKM40I0-ogv43iddCqEDz51n1/view?usp=share_link",
-    //     cName: "cta_resume",
-    // },
+    {
+        title: "Resume",
+        url: "https://drive.google.com/file/d/1W47GqOQlSZxF2xqSP6FTLE3GbnEtmj8E/view?usp=sharing",
+        cName: "cta_resume",
+    },
 ];
 
 export const emailLink =
@@ -70,9 +70,9 @@ export const heroData = {
 
 export const aboutData = {
     heading: [
-        "Hi. I’m Zcedd, looking for an opportunity to start a career and enhance my skills in front-end web development.",
+        "Hi. I’m Zcedd, looking for an opportunity to start a career and enhance my skills in full-stack web development.",
         'My dream is to build things similar to what an inventor does. It turns out that building websites are similar to our so-called "inventions" because it will solve the problems encountered and automate things.',
-        'My interest in web development started way back 2017 when I was appointed as the leader and programmer in our Thesis Project and when I visited a certain website for a graphics artists with awesome user-interaction like unblur part of background image on mouse pointer position. I got amazed and I said to myself "I like to build amazing an website like this someday".',
+        "I believe that the web is a powerful platform for communication, information sharing, and innovation, and I'm committed to learning and mastering the technologies and skills required to make a positive impact in this field. As a web developer, I'm dedicated to delivering web solutions that are not only visually appealing but also function smoothly and efficiently.",
     ],
     education: {
         course: "Bachelor of Science in Computer Engineering",
