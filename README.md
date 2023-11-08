@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zcedd!</h1>
 <div align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Zcedd&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif)"/>
+  <img height="180em" src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif"/>
 </div>
 <br>
 <div align ="center"> 
