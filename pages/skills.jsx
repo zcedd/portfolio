@@ -14,11 +14,11 @@ const skills = () => {
                 <title>Zced Rick Tabladillo</title>
                 <meta
                     name="description"
-                    content="Zced Rick Tabladillo is an aspiring Front-end Web Developer who loves to turn ideas into reality through web development. Current tech skills are React, Vite, Next. Currently learning Typescript. Seeking for an opportunity as a Jr. Front-end Web Developer to be able to apply my skills into real projects and also to learn more technologies."
+                    content="Zced Rick Tabladillo is an aspiring full-stack Web Developer who loves to turn ideas into reality through web development. Current tech skills are Laravel, Vite, Bootstrap 5.  Seeking for an opportunity as a full-stack Web Developer to be able to apply my skills into real projects and also to learn more technologies."
                 />
                 <meta
                     name="keywords"
-                    content="zcedd, zced, zced Rick, zced rick tabladilo, zced buduan, zced rick buduan tabladilo"
+                    content="zcedd, zced, zced rick, zced rick tabladillo, zced buduan, zced rick buduan tabladillo"
                 />
                 <meta name="author" content="zcedd" />
                 <meta
