@@ -15,7 +15,7 @@ const Right = () => {
                 rel="noreferrer"
                 className="writing-mode-v-rl text-sm hover:text-primary transition-colors ease-in-out duration-200"
             >
-                zcedbuduan@gmail.com
+                Zced Rick Tabladillo
             </motion.a>
             <div className="w-[1px] h-24 bg-wht" />
         </div>
