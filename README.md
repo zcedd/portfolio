@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zcedd!</h1>
+<h1 align="center">Hello, I'm <a href="https://www.instagram.com/zcedd__">Zcedd!</a></h1>
 <div align="center">
   <img height="180em" src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif"/>
 </div>
