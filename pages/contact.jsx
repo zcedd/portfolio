@@ -49,7 +49,7 @@ const contact = () => {
                             variants={fadeIn("up", "tween", 0.1, 0.6)}
                             className="text-center text-whiteSecondary mb-12"
                         >
-                            I am seeking for an opportunity as a Jr. Front-end
+                            I am seeking for an opportunity as a full-stack
                             Web Developer to apply my skills to real projects
                             and learn more technologies. If you are interested,
                             feel free to send me an email. My inbox is always
