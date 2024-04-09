@@ -47,7 +47,7 @@ const Header = () => {
                         onClick={closeMenuByNavlist}
                     >
                         <Image
-                            src="cb.svg"
+                            src="zcedd.jpg"
                             alt="/"
                             width={32}
                             height={32}
