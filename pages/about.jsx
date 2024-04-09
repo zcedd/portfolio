@@ -24,7 +24,7 @@ const about = () => {
                     name="viewport"
                     content="width=device-width, initial-scale=1"
                 />
-                <link rel="icon" href="cb-icon.svg" />
+                <link rel="icon" href="favicon.ico" />
             </Head>
             <main className="relative max-w-6xl px-5 md:px-10 lg:px-12 xl:px-0 mx-auto z-20">
                 <section className="w-full min-h-screen flex flex-col items-start justify-center pt-40 lg:pt-0 mb-14 lg:mb-0">
