@@ -29,7 +29,7 @@ const Footer = () => {
                     </ul>
                 </nav>
                 <p className="text-sm text-center">
-                    Built by Zced Rick Tabladillo © 2023
+                    Built by Zced Rick Tabladillo © 2024
                 </p>
             </footer>
         </section>
