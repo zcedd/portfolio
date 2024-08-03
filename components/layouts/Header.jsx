@@ -66,23 +66,23 @@ const Header = () => {
                 >
                     <ul className="flex gap-8 items-center">
                         {navLinks.map((link) => {
-                            if (link.cName === "cta_resume") {
-                                return (
-                                    <motion.li
-                                        variants={headerLinksVariants}
-                                        key={link.title}
-                                        className={link.cName}
-                                    >
-                                        <a
-                                            href={link.url}
-                                            target="_blank"
-                                            rel="noreferrer"
-                                        >
-                                            {link.title}
-                                        </a>
-                                    </motion.li>
-                                );
-                            }
+                            // if (link.cName === "cta_resume") {
+                            //     return (
+                            //         <motion.li
+                            //             variants={headerLinksVariants}
+                            //             key={link.title}
+                            //             className={link.cName}
+                            //         >
+                            //             <a
+                            //                 href={link.url}
+                            //                 target="_blank"
+                            //                 rel="noreferrer"
+                            //             >
+                            //                 {link.title}
+                            //             </a>
+                            //         </motion.li>
+                            //     );
+                            // }
                             return (
                                 <motion.li
                                     variants={headerLinksVariants}
@@ -121,31 +121,31 @@ const Header = () => {
                         <nav className="mx-auto px-5 w-full h-full flex">
                             <ul className="flex flex-col items-center justify-center gap-6 w-full text-xl">
                                 {navLinks.map((link, index) => {
-                                    if (link.cName === "cta_resume") {
-                                        return (
-                                            <motion.li
-                                                variants={mobileMenuLink(
-                                                    index * 0.2,
-                                                    0.8 - `0.${index}`,
-                                                    index * 0.2
-                                                )}
-                                                initial="hidden"
-                                                animate="show"
-                                                transition="transition"
-                                                exit="exit"
-                                                key={link.title}
-                                                className={link.cName}
-                                            >
-                                                <a
-                                                    href={link.url}
-                                                    target="_blank"
-                                                    rel="noreferrer"
-                                                >
-                                                    {link.title}
-                                                </a>
-                                            </motion.li>
-                                        );
-                                    }
+                                    // if (link.cName === "cta_resume") {
+                                    //     return (
+                                    //         <motion.li
+                                    //             variants={mobileMenuLink(
+                                    //                 index * 0.2,
+                                    //                 0.8 - `0.${index}`,
+                                    //                 index * 0.2
+                                    //             )}
+                                    //             initial="hidden"
+                                    //             animate="show"
+                                    //             transition="transition"
+                                    //             exit="exit"
+                                    //             key={link.title}
+                                    //             className={link.cName}
+                                    //         >
+                                    //             <a
+                                    //                 href={link.url}
+                                    //                 target="_blank"
+                                    //                 rel="noreferrer"
+                                    //             >
+                                    //                 {link.title}
+                                    //             </a>
+                                    //         </motion.li>
+                                    //     );
+                                    // }
                                     return (
                                         <motion.li
                                             variants={mobileMenuLink(

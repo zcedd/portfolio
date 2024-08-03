@@ -20,14 +20,14 @@ export const navLinks = [
     // },
     {
         title: "Contact",
-        cName: "nav_item",
+        cName: "cta_resume",
         url: "/contact",
     },
-    {
-        title: "Resume",
-        url: "https://drive.google.com/file/d/1W47GqOQlSZxF2xqSP6FTLE3GbnEtmj8E/view?usp=sharing",
-        cName: "cta_resume",
-    },
+    // {
+    //     title: "Resume",
+    //     url: "https://drive.google.com/file/d/1W47GqOQlSZxF2xqSP6FTLE3GbnEtmj8E/view?usp=sharing",
+    //     cName: "cta_resume",
+    // },
 ];
 
 export const emailLink =
@@ -42,7 +42,7 @@ export const footerSocials = [
     {
         name: "instagram",
         logo: <AiFillInstagram size={22} />,
-        url: "https://www.instagram.com/zcedd__",
+        url: "https://www.instagram.com/zcedd1",
     },
     {
         name: "tiktok",
@@ -62,10 +62,10 @@ export const footerSocials = [
 ];
 
 export const heroData = {
-    name: "Zced Rick Tabladillo",
+    name: "Zcedd",
     subheading: "Let me build web stuff for you.",
     description:
-        "A Full-stak Web Developer who loves to turn ideas into reality through web development.",
+        "A Full-stack Web Developer who loves to turn ideas into reality through web development.",
 };
 
 export const aboutData = {
