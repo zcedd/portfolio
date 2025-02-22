@@ -28,9 +28,7 @@ const Footer = () => {
                         ))}
                     </ul>
                 </nav>
-                <p className="text-sm text-center">
-                    Built by Zcedd © 2024
-                </p>
+                <p className="text-sm text-center">Built by Zcedd © 2025</p>
             </footer>
         </section>
     );
