@@ -98,6 +98,10 @@ export const skills = [
         logo: "js.svg",
     },
     {
+        name: "Php",
+        logo: "php.svg",
+    },
+    {
         name: "Laravel",
         logo: "laravel.svg",
     },
