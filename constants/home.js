@@ -106,6 +106,10 @@ export const skills = [
         logo: "laravel.svg",
     },
     {
+        name: "Livewire",
+        logo: "livewire.svg",
+    },
+    {
         name: "Bootstrap 5",
         logo: "bootstrap-5.svg",
     },
@@ -114,12 +118,12 @@ export const skills = [
         logo: "tailwind.svg",
     },
     {
-        name: "React",
-        logo: "react.svg",
-    },
-    {
         name: "Vite",
         logo: "vite.svg",
+    },
+    {
+        name: "React",
+        logo: "react.svg",
     },
     {
         name: "Next",
